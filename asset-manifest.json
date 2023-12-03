@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KRISMOK95/taywa.git/static/css/main.4f0261e7.css",
+    "main.js": "/KRISMOK95/taywa.git/static/js/main.0d372e4e.js",
+    "index.html": "/KRISMOK95/taywa.git/index.html",
+    "main.4f0261e7.css.map": "/KRISMOK95/taywa.git/static/css/main.4f0261e7.css.map",
+    "main.0d372e4e.js.map": "/KRISMOK95/taywa.git/static/js/main.0d372e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0261e7.css",
+    "static/js/main.0d372e4e.js"
+  ]
+}
